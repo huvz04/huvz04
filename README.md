@@ -20,15 +20,20 @@
 
 大专准毕业生，目前精力主要放在专升本上。
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huvz04&show_icons=true&theme=radical?count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huvz04&layout=compact&theme=radical?count_private=true)
+<div align="center">
+  
+ <a href="https://steamcommunity.com/id/Huvz/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=huvz04&show_icons=true&theme=highcontrast&count_private=true"/></a>
+<a href="https://steamcommunity.com/id/Huvz/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huvz04&layout=donut&theme=highcontrast&count_private=true"/></a>
+  </div>
+  
 <div>
-  🚀 I use daily:
+  🚀 I use daily:   
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/> 
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> 
+
+  
 <br>
 🧰  it's my daily tool: 
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> 
