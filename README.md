@@ -51,13 +51,13 @@
  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
  
-<br> 
+<br>
 📖 I am learning and occasionally use: 
   <img src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
 <br>
 💻 I own two Computer:<br>
- <img src="https://img.shields.io/badge/AMD-Ryzen_7_5700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white">      <img src="https://img.shields.io/badge/AMD-Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
+ <img src="https://img.shields.io/badge/AMD-Ryzen_7_5700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white">      <img src="https://img.shields.io/badge/AMD-Radeon_RX_6700xt-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/NVIDIA-RTX3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white">     <img src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
     
