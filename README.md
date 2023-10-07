@@ -21,8 +21,8 @@
 大专准毕业生，目前精力主要放在专升本上。
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huvz04&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huvz04&layout=compact&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huvz04&show_icons=true&theme=radical?count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huvz04&layout=compact&theme=radical?count_private=true)
 <div>
   🚀 I use daily:
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
