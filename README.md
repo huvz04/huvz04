@@ -22,8 +22,8 @@
 
 <div align="center">
   
- <a href="https://steamcommunity.com/id/Huvz/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=huvz04&show_icons=true&theme=highcontrast&count_private=true"/></a>
-<a href="https://steamcommunity.com/id/Huvz/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huvz04&layout=donut&theme=highcontrast&count_private=true"/></a>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=huvz04&show_icons=true&theme=highcontrast&count_private=true"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huvz04&layout=donut&theme=highcontrast"/>
   </div>
   
 <div>
