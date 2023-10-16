@@ -22,7 +22,7 @@
 
 <div align="center">
   
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=huvz04&show_icons=true&theme=highcontrast&count_private=true"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=huvz04&show_icons=true&theme=highcontrast&count_private=true&include_all_commits"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huvz04&layout=donut&theme=highcontrast"/>
   </div>
   
