@@ -1,9 +1,5 @@
 <div align="center">
-  
-  <!-- dynamic typing effect 动态打字效果 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Yu+Gothic+Medium&weight=430&size=28&pause=1000&color=0EB3F7&center=true&vCenter=true&random=false&width=435&lines=%E9%A1%98%E3%81%84%E4%BA%8B+%E7%A5%88%E3%82%8B%E3%82%88;Everything+will+be+alright)](https://git.io/typing-svg)
-
-</div>
+  </div>
 <div align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=huvz04&show_icons=true&count_private=true"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huvz04&layout=compact"/>
